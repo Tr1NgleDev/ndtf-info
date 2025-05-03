@@ -1,0 +1,6 @@
+[submodule "libs/ndtf"]
+	path = libs/ndtf
+	url = https://github.com/Tr1NgleDev/ndtf.git
+[submodule "ndtf"]
+	path = ndtf
+	url = https://github.com/Tr1NgleDev/ndtf.git
